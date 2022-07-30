@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stats Preview Card](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Stats Preview Card](https://stats-preview-card-mrskyner.vercel.app/)
 
 ## My process
 
