@@ -66,5 +66,5 @@ I want to continue focusing working with css's media, and making better and bett
 
 ## Author
 
-- Website - [Stats Preview](https://www.your-site.com)
+- Website - [Stats Preview](https://stats-preview-card-mrskyner.vercel.app/)
 - Frontend Mentor - [@MrSkyner](https://www.frontendmentor.io/profile/MrSkyner)
